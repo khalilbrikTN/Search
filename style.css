@@ -1,0 +1,57 @@
+#input-area {
+    border-radius: 10px;
+    border: 1px black solid;
+    width: 50%;
+    margin-top: 20%;
+    margin-left: 25%;
+    margin-bottom: 0;
+}
+
+.btn-me {
+    padding: 1px;
+    font-size: 12px;
+    width: 20%;
+    margin-left: 1%;
+}
+#btn-advanced {
+    margin-left: 45%;
+    margin-top: 2%;
+}
+body {
+    background-image:url("imgs/5291450.jpg");
+    background-size: cover;
+    
+}
+
+.nav-link {
+    font-size: 10px;
+    padding: 5px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border: 2px bisque solid;
+    border-radius: 10px;
+}
+
+.nav-link:hover{
+    background-color: white;
+}
+
+.input-id {
+    width: 50%;
+}
+
+.label-me {
+    font-size: 10px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    text-align: left;
+}
+
+.input-id, .label-me {
+    margin-bottom: 4px;
+
+}
+
+.row {
+    margin-left: 2px;
+}
